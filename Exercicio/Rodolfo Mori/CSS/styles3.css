@@ -1,0 +1,22 @@
+h1 {
+    color: greenyellow;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Julee', cursive;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    color: rgb(24, 24, 37);
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: 'Julee', cursive;
+    font-style: inherit;
+    line-height: 60px;
+    letter-spacing: 15px;
+    word-spacing: 30;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 10px 10px 7px #000000;
+}

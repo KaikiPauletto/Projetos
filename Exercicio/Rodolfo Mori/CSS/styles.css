@@ -1,0 +1,10 @@
+.texto {
+    color: red;
+    font-weight: bold;
+}
+
+.botoes {
+    background-color: #4efff6;
+    border-radius: 20px;
+    border-color: blue;
+}

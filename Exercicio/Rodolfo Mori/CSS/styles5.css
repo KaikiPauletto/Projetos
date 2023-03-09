@@ -1,0 +1,47 @@
+.box {
+    background-color: blueviolet;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.box-2 {
+    background-color: crimson;
+}
+
+.box-3 {
+    background-color: coral;
+}
+
+
+
+
+
+
+
+
+
+/*
+- BLOCK
+    Vem como padrão: div, section, p, h1, h2, ul, li, article...
+    - Ocupa 100% da largura do elemento pai
+    - Sempre ocupa toda sua linha
+    - Altura definida de acordo com o conteúdo
+    - Podemos definir height e width
+    - Podemos definir valores de margin
+
+- INLINE
+    Vem como padrão: a, span, b, i...
+    - Elementos em linha
+    - Não permite alterar height e width
+    - Não podemos definir valores de margin top e botton
+    - Ganha comportamento de uma palavra
+
+- INLINE BLOCK
+
+    - Elementos em linha, porém com caracteristicas do block
+    - Altura e Largura podem ser alteradas
+
+*/

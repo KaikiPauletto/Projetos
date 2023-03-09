@@ -1,0 +1,36 @@
+.avo {
+    font-size: 16px;
+}
+
+.pai {
+    width: 50vw;
+    height: 50vh;
+    background: blue;
+    color: white;
+    font-size: 2em;
+}
+
+.filho {
+    width: 50%;
+    height: 50%;
+    background: red;
+    color: white;
+    font-size: 2rem;
+}
+
+/*
+    Unidades de Medidas
+
+
+    -> Absolutas
+        px (pixels)
+
+    -> Relativas
+        %   calcula o tamanho relativo ao elemento pai
+        vw  1vw é 1% da largura do navegador
+        vh  ====== altura
+        em  unidade relativa ao elemento pai
+        rem unidade relativa ao elemento raiz
+        
+
+        */
