@@ -1,0 +1,10 @@
+import random
+n1 = random.randint(1, 10)
+n2 = random.randint(1, 10)
+n3 = random.randint(1, 10)
+n4 = random.randint(1, 10)
+n5 = random.randint(1, 10)
+numeros = (n1, n2, n3, n4, n5)
+print(numeros)
+print('O maior número foi {}'.format(max(numeros)))
+print('O menor número foi {}'.format(min(numeros)))
