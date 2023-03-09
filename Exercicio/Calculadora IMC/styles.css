@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(192, 228, 158);
+}
+
+.container {
+    align-items: center;
+    background-color: #7be766;
+    /* Troca cor de fundo da caixa */
+    width: 100%;
+    /*  Largura da caixa */
+    max-width: 420px;
+    /*  Largura máxima */
+    padding: 60px;
+    border-radius: 25px;
+    height: 60vh;
+    margin-right: 60px;
+}
+
+.titulo {
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.nome {
+    align-items: center;
+    margin-left: 62px;
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 10;
+
+}
+
+.altura {
+    padding: 20px;
+    margin-top: 30px;
+    align-items: center;
+    margin-left: 62px;
+    border-radius: 15px;
+    border: none;
+}
+
+.peso {
+    padding: 20px;
+    align-items: center;
+    margin-top: 35px;
+    margin-left: 72px;
+    border-radius: 15px;
+    border: none;
+}
+
+.resultado {
+    padding: 20px;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 15px;
+    height: 200px;
+    border: none;
+}
+
+.titulo {
+    align-items: center;
+    margin-left: 70px;
+    font-size: x-large;
+}
+
+.final {
+    font-size: xx-large;
+    margin-top: 50px;
+}
+.ladoNome {
+    margin-top: 10px;
+}
